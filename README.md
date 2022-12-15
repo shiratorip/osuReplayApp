@@ -1,4 +1,4 @@
 # osuReplayApp
-run Window.py script
+run Window.py script->
 choose .osr file
 #wip 
